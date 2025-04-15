@@ -142,3 +142,7 @@
 .icon_f34534, .guildIcon__48112, .iconSizeMini_f34534, .iconInactive_f34534{
     border-radius: 100% !important;
 }
+.lowerBadge_cc5dd2{
+    margin-bottom: 2px;
+    margin-right: 2px;
+}
