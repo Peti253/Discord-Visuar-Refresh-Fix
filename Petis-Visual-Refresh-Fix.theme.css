@@ -146,3 +146,12 @@
     margin-bottom: 2px;
     margin-right: 2px;
 }
+.folderIcon__48112>.wrapper_cc5dd2>.lowerBadge_cc5dd2{
+    margin: 0;
+}
+.guildSeparator__252b6{
+    margin-bottom: 0px;
+}
+.scroller_ef3116>:not(.tutorialContainer__1f388, .listItem__650eb, .stack_dbd263) {
+    height: 48px !important;
+}
